@@ -1,9 +1,7 @@
 "use server";
 
-import React from "react";
+import { NewsletterPage } from "@/components/NewsletterPage";
 
-const page = () => {
-  return <div>This is a default page</div>;
-};
+const page = () => <NewsletterPage />;
 
 export default page;
