@@ -27,12 +27,6 @@ pnpm install
 pnpm run dev
 ```
 
-### Start test
-
-```
-pnpm run test
-```
-
 Alternative use the command line `ni` to install or `nr` to start the project
 
 Thanks for watching, can't wait to talk about it with you!
