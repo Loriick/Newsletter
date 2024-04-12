@@ -27,6 +27,6 @@ pnpm install
 pnpm run dev
 ```
 
-Alternative use the command line `ni` to install or `nr` to start the project
+Alternative use the command line `ni` to install or `nr` to start the project [here the link]('https://www.npmjs.com/package/@antfu/ni')
 
 Thanks for watching, can't wait to talk about it with you!
